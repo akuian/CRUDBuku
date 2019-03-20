@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const expressMongoDB = require('express-mongo-db');
+const expressMongoDb = require('express-mongo-db')
 const bodyParser = require('body-parser')
 const methodOverride = require('method-override')
 const expressValidator = require('express-validator')
